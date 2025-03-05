@@ -95,8 +95,8 @@ Puedes jugar *Whisker Warriors* de tres maneras:
    ```bash
    git clone https://github.com/FacuSB/Proyecto_Integrador_Final.git
    ```
-2. **Jugarlo en la web**: Accede a la versión en línea a través de este enlace: [Jugar en la web](Aca_link_del_Juego).
-3. **Descargar la versión para PC**: Si prefieres una experiencia offline, puedes descargar el juego desde aquí: [Descargar para PC](Aca_Link_de_Descarga).
+2. **Jugarlo en la web**: Accede a la versión en línea a través de este enlace: [Jugar en la web](https://facusb.itch.io/whisker-warriors).
+3. **Descargar la versión para PC**: Si prefieres jugar de forma offline, puedes descargar el juego desde el siguiente enlace. El link de descarga se encuentra debajo de la descripción: [Descargar para PC](https://facusb.itch.io/whisker-warriors).
 
 ## 🛠️ Tecnologías usadas
 
